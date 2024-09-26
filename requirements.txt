@@ -1,0 +1,14 @@
+certifi==2024.8.30
+charset-normalizer==3.3.2
+firecrawl-py==1.2.4
+idna==3.10
+korvus==1.1.2
+markdown-it-py==3.0.0
+mdurl==0.1.2
+nest-asyncio==1.6.0
+Pygments==2.18.0
+python-dotenv==1.0.1
+requests==2.32.3
+rich==13.8.1
+urllib3==2.2.3
+websockets==13.1

@@ -18,13 +18,13 @@ This example application demonstrates how to perform web crawling, semantic sear
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/korvus-firecrawl-example.git
-   cd korvus-firecrawl-example
+   git clone https://github.com/postgresml/example-korvus-firecrawl
+   cd example-korvus-firecrawl
    ```
 
 2. Install the required packages:
    ```
-   pip install korvus firecrawl python-dotenv rich
+   pip install -r requirements.txt
    ```
 
 3. Create a `.env` file in the project root and add your credentials:
